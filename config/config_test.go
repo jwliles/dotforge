@@ -1,4 +1,4 @@
-package tests
+package config
 
 // Dummy function to avoid empty file error
 func init() {}

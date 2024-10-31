@@ -1,0 +1,32 @@
+.
+├── bin
+│   └── forge
+├── cli
+│   ├── cli.go
+│   ├── cli_test.go
+│   └── help.go
+├── config
+│   ├── config.go
+│   ├── config_test.go
+│   └── init.go
+├── docs
+│   └── forge.1
+├── dotfile
+│   ├── backup.go
+│   ├── link.go
+│   ├── list.go
+│   └── unlink.go
+├── forge.go
+├── go.mod
+├── README.md
+├── scanner
+│   └── scanner.go
+├── symlink
+│   └── symlink.go
+├── tree.txt
+└── utils
+    ├── path_utils.go
+    ├── utils.go
+    └── utils_test.go
+
+9 directories, 21 files
